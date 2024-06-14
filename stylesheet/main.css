@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+html, body{
+background-color: #081E33;
+
+}
+.match-card {
+  background-color: #0D1D2D;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 600px;
+  margin: 20px auto;
+}
+.team-logo {
+  width: 50px;
+}
+.betting-odds {
+  background-color: #9D9D9F;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.header{
+  background-color: #39375C;
+  padding: 7px;
+}
